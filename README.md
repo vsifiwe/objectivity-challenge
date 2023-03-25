@@ -33,4 +33,4 @@ To run the program, use the following commands:
 
 #### Output
 
-Link to image
+![Output](https://github.com/vsifiwe/objectivity-challenge/blob/challenge-2/Challenge%202/screenshot.png?raw=true)
