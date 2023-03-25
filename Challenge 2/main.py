@@ -52,7 +52,7 @@ while(True):
     elif(action == '4'):
         print("\nWithdrawing")
         account_number = input("Enter account number: ")
-        amount_string = input("Enter deposit amount: ")
+        amount_string = input("Enter withdrawal amount: ")
 
         try:
             amount = int(amount_string)

@@ -26,6 +26,12 @@ Newly added items are: [11, 22, 23]
 
 ## Challenge 2
 
+### Possible actions
+ - Create account
+ - View accounts
+ - Deposit
+ - Withdraw
+
 To run the program, use the following commands:
 
  - `cd "Challenge 2"`
